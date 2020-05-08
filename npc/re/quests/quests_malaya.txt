@@ -6867,7 +6867,7 @@ malaya,55,72,4	script	Nurse#ma_n1	569,{
 			mes "[Nurse]";
 			mes "Oh~";
 			mes "I'm so glad!";
-			mes "I was literally waiting all day for someone to some by.";
+			mes "I was literally waiting all day for someone to come by.";
 			cutin "malaya_nurseA02",2;
 			next;
 			switch(select("About the hospital:Reason for stalling me:Ignore.")) {
