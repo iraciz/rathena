@@ -7047,7 +7047,7 @@ malaya,55,72,4	script	Nurse#ma_n1	569,{
 	} else if (malaya_bang == 2) {
 		mes "[Nurse Las]";
 		mes "Ahhhhh...";
-		mes "My feet feel a lot better now, but it smells funny.";
+		mes "My feet feel a lot better now, but it smells funky.";
 		cutin "malaya_nurseA01",2;
 		next;
 		mes "[Nurse Las]";
